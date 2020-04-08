@@ -78,11 +78,11 @@ p {
 }
 
 ::selection {
-  background: #a9a9a9;
+  background: #989898;
 }
 
 ::-moz-selection {
-  background: #a9a9a9;
+  background: #989898;
 }
 
 em {
@@ -105,7 +105,7 @@ blockquote {
 /* Code */
 
 pre, code {
-  background: #c3c3c3;
+  background: #cbcbcb;
   font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
   font-size: 0.9rem;
   padding: 0.2em;
@@ -134,13 +134,11 @@ a:hover {
 }
 
 a:link::selection {
-  text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
-  background: #b4d5fe;
+  background: #b2d6e5;
 }
 
 a:link::-moz-selection {
-  text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
-  background: #b4d5fe;
+  background: #b2d6e5;
 }
 
 

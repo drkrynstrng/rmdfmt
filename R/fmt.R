@@ -1,8 +1,8 @@
 # Functions for HTML formats
 
-# Minimal - minimalist, lightweight design
+# Minimal - minimalist, lightweight design with a light theme
 
-#' @title Minimal format
+#' @title Minimal format with a light theme
 #'
 #' @param toc TRUE/FALSE
 #' @param highlight Syntax highlighting style

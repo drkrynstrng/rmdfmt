@@ -2,7 +2,7 @@
 % Please edit documentation in R/fmt.R
 \name{minimal}
 \alias{minimal}
-\title{Minimal format}
+\title{Minimal format with a light theme}
 \usage{
 minimal(toc = TRUE, highlight = "monochrome")
 }
@@ -12,5 +12,5 @@ minimal(toc = TRUE, highlight = "monochrome")
 \item{highlight}{Syntax highlighting style}
 }
 \description{
-Minimal format
+Minimal format with a light theme
 }
