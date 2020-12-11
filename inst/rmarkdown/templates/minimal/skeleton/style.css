@@ -6,10 +6,15 @@
 
 /* General style */
 
+@font-face {
+    font-family: "HK Grotesk";
+    src: url("fonts/hk-grotesk/HKGrotesk-Regular.otf") format("truetype");
+}
+
 body {
   background-color: #f7f7f7;
   color: #111;
-  font-family: "Helvetica Neue", Helvetica, "DejaVu Sans", sans-serif;
+  font-family: "HK Grotesk", sans-serif;
   font-size: 15px;
   line-height: 1.6;
   margin: 0 auto;
