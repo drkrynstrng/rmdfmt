@@ -4,7 +4,7 @@
 [![Package Version](https://img.shields.io/badge/Package%20version-0.2.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-This R package contains HTML output formats for R Markdown documents, with an emphasis on minimalist design.
+The rmdfmt package contains HTML output formats for R Markdown documents, with an emphasis on minimalist design for readability.
 
 
 ## Installation
@@ -29,14 +29,17 @@ output:
   rmdfmt::minimal:
     toc: true
 ---
-
 ```
 
 Available formats:
 
 - minimal
+
+![](minimal.png)
+
 - minimal_dark
 
+![](minimal-dark.png)
 
 ## License
 
