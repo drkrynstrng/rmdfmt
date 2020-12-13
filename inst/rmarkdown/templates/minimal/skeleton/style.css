@@ -115,9 +115,9 @@ blockquote {
 
 pre, code {
   background: #cbcbcb;
-  font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  font-family: "Andale Mono", monospace;
   font-size: 0.9rem;
-  padding: 0.2em;
+  padding: 0.1em 0.3em;
 }
 
 pre {
@@ -125,8 +125,8 @@ pre {
 }
 
 pre > code {
-  display: block;
-  padding: 1rem;
+  display: inline-block;
+  padding: 0.5em;
   word-wrap: normal;
 }
 
